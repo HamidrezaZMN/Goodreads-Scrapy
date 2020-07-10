@@ -1,4 +1,6 @@
 # How-To-Use
+Caution: It's easy to use for those who know how to work with scrapy, not for everyone<br>
+
 As you know, scrapy doesn't work with, like, copy and pasting the whole project. So go to the spiders folder and copy the gg.py to the scrapy project you've made. then open it with any editor you want. Then change these informations: email(line 12), passwd(line 13) and link(line 17), order(line 23)<br>
 The link option is the link of your goodreads' page. for example, mine is https://www.goodreads.com/user/show/35791861-hamidreza<br>
 The order option is the shelf you want the data from. it must be one of these: read, cr, wtr<br>
