@@ -6,5 +6,5 @@ The result is text files with the wanted datas (in this particular project I did
 
 # Two-Methods-That-Are-Used
 In this repositroy I have uploaded two folders<br>
-One of them is the complicated one, and the other one is easy to use<br>
+One of them is complicated, and the other one is easy to use<br>
 Look for README.md file for each one, for more info
